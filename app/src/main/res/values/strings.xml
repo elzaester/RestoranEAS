@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restoran</string>
+    <string name="restoran">restoran_name</string>
+    <string name="rest_detail">rest_detail</string>
+</resources>
